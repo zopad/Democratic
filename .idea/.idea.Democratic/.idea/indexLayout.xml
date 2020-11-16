@@ -3,6 +3,14 @@
   <component name="ContentModelUserStore">
     <attachedFolders />
     <explicitIncludes>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-base-atoms@4.3.0</Path>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-core@4.3.0</Path>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-fsm@4.3.0</Path>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-mobile@4.3.0</Path>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-mono-hooks@4.3.0</Path>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-scene-mgmt@4.3.0</Path>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-tags@4.3.0</Path>
+      <Path>Library/PackageCache/com.mambojambostudios.unity-atoms-ui@4.3.0</Path>
       <Path>Library/PackageCache/com.unity.2d.animation@3.2.5</Path>
       <Path>Library/PackageCache/com.unity.2d.common@2.0.2</Path>
       <Path>Library/PackageCache/com.unity.2d.path@2.0.6</Path>
@@ -24,6 +32,7 @@
       <Path>.git</Path>
       <Path>.idea</Path>
       <Path>.vscode</Path>
+      <Path>Builds</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>
